@@ -2,7 +2,7 @@
 
 ## Miembros del Equipo
 
-| **Ana González**                                                                                 | **Anaís Reyes**                                                                           | **Mª del Carmen Fernández**                                                                                |
+| **Ana González**                                                                                 | **Anaís Reyes**                                                                           | **Mamen Fernández**                                                                                |
 | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | <img src="IntegrantesProyecto/AnaGonzalezBueno.jpg" alt="Ana Gonzalez" width="150" height="150"> | <img src="IntegrantesProyecto/AnaisReyes.jpg" alt="Anais Reyes" width="150" height="150"> | <img src="IntegrantesProyecto/MariaDelCarmenFernadez.jpg" alt="Maria Del Carmen" width="150" height="150"> |
 | [LinkedIn](https://www.linkedin.com/in/anago-bueno/)                                            | [LinkedIn](https://www.linkedin.com/in/anais-reyes-rocha/)                               | [LinkedIn](https://www.linkedin.com/in/mamen-fb/)                                                         |
